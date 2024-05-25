@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,job_title,salary,department_id
+1,John,Doe,Manager,70000,1
+2,Jane,Smith,Analyst,50000,2
+3,Michael,Johnson,Developer,60000,1
+4,Emily,Williams,Designer,55000,2
+5,William,Jones,Tester,45000,1
+6,Susan,Brown,Analyst,48000,2
+7,David,Miller,Developer,62000,1
+8,Sarah,Davis,Tester,46000,2
+9,Richard,Wilson,Manager,75000,1
+10,Linda,Anderson,Analyst,49000,2
