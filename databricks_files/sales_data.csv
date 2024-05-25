@@ -1,0 +1,17 @@
+order_id,product_id,product,region,amount,date
+1,101,Widget A,North,150.00,2024-01-15
+2,102,Widget B,South,200.00,2024-01-18
+3,103,Widget C,East,50.00,2024-02-20
+4,101,Widget A,West,75.00,2024-03-25
+5,104,Widget D,North,300.00,2024-04-10
+6,105,Widget E,South,125.00,2024-05-15
+7,102,Widget B,East,175.00,2024-06-05
+8,106,Widget F,West,250.00,2024-07-10
+9,103,Widget C,North,100.00,2024-08-12
+10,107,Widget G,South,225.00,2024-09-14
+11,104,Widget D,East,150.00,2024-10-16
+12,108,Widget H,West,300.00,2024-11-18
+13,105,Widget E,North,75.00,2024-12-20
+14,106,Widget F,South,50.00,2025-01-22
+15,107,Widget G,East,125.00,2025-02-24
+16,108,Widget H,West,175.00,2025-03-26
